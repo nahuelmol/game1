@@ -1,0 +1,6 @@
+#define IDR_MENU 10001
+
+#define ID_MENU_CANCEL 	10002
+#define ID_MENU_OK 		10003
+
+

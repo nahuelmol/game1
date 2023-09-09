@@ -1,0 +1,5 @@
+*.dll
+*.lib
+cleaner.cpp
+/out
+/pruebas
